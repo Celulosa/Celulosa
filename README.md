@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Celulosa
-- 👀 I’m interested in learning languages
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on my own web
 - 📫 How to reach me amartinmesel@hotmail.com
